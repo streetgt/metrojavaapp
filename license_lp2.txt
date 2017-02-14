@@ -1,0 +1,10 @@
+/*
+ *
+ * Projeto (${project.name}) - Linguagens de Programaçao 2
+ * 
+ * ${package}
+ * ${nameAndExt}
+ *
+ * 2015/2016 (c) Universidade Fernando Pessoa
+ *
+ */
